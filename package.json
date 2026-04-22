@@ -1,0 +1,22 @@
+{
+  "name": "sql-1",
+  "version": "1.0.0",
+  "description": "Estos ejercicios están diseñados para ayudarte a practicar y mejorar tus habilidades de lectura en SQL. Cada ejercicio contiene una consulta SQL y se espera que interpretes el resultado que devolverá.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrdazMaestre/sql-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/OrdazMaestre/sql-1/issues"
+  },
+  "homepage": "https://github.com/OrdazMaestre/sql-1#readme"
+}
