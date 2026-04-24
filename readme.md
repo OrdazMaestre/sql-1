@@ -69,3 +69,6 @@ INSERT INTO usuarios_lenguajes (nombre, apellido, email, edad, lenguaje) VALUES
 ('Raquel', 'Serrano', 'raquel.serrano@example.com', 32, 'Shell'),
 ('Alberto', 'Reyes', 'alberto.reyes@example.com', 28, 'VB.NET');
 ```
+
+
+abrir directamente http://localhost:3000/usuarios
